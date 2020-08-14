@@ -1,0 +1,5 @@
+<script>
+    $(document).ready(function() {
+        	var Pixabay_API_KEY = 'PUT YOUR Pixabay key here';
+    });
+</script>

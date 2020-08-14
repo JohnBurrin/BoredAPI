@@ -8,9 +8,4 @@ Halfmoon css library -  https://github.com/halfmoonui/halfmoon
 Board Api - https://www.boredapi.com/documentation
 Pixabay -  https://pixabay.com/api/docs/
 
-To get the random images you will need a pixabay API key and add it in the code
-
-```
-// Pixabay API key
-key: '',
-```
+To get the random images you will need a pixabay API key, rename keys.js.example to keys.js and update the API key.
